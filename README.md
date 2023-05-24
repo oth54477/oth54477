@@ -7,10 +7,6 @@
   <!-- 불편 사항 및 문의는 tykimdream@gmail.com으로 보내주세요 -->
   <div key="1">
     <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=oth5447 width="280" height="140" alt="baekjoon" />
-    <img src=http://mazandi.herokuapp.com/api?handle=oth5447&theme=warm width="285" height="140" alt="solved" />
-  </div>
-  
-  <div key="2">
     <img src=https://github-readme-stats.vercel.app/api?username=oth54477&show_icons=true&theme=onedark width="350" height="150" alt="githubStats" />
   </div>
   
