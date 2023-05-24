@@ -14,10 +14,6 @@
     <img src=https://github-readme-stats.vercel.app/api?username=oth54477&show_icons=true&theme=onedark width="350" height="150" alt="githubStats" />
   </div>
   
-  <div key="3">
-    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=oth54477&theme=onedark width="280" height=270 alt="MUL" />
-  </div>
-  
   <div key="4">
   <h3 style ="font-size : 2em; font-weight:700;">🍀Tech Stack🍀</h3>
     <div ><h3 key=0 style ="font-size : 1.5em; font-weight:700;"></h3><div "><img
