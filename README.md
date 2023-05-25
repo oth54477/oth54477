@@ -47,7 +47,7 @@
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white
           alt=""
-        /> <img
+        /> <br /> <img
           key=252033.21020968945
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/python-3581ba?style=flat&logo=python&logoColor=white
