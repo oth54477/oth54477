@@ -84,10 +84,7 @@
               alt="Mail"
             />
           </a>
-      <a href=1 target="_blank">
-            <img src=https://img.shields.io/badge/TechBlog-7FD2F5?style=flat&logo=Hoppscotch&logoColor=white&link=1/ alt="blog" />
-          </a>
-      <a href=2 target="_blank">
+      <a href=https://taehun.site target="_blank">
             <img src=https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=2/ alt="notion" />
           </a>
     </div>
